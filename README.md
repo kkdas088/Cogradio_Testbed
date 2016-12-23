@@ -21,6 +21,7 @@ project. A functional flow graph has been chosen to devour all the contents of t
 interdependencies between them. Also various basic commands of software packages are listed which are
 frequently utilized to tune parameters of the functions and probe into various “on the run “aspects of the
 device.
+
 Lastly this  is developed with assumptions about the users who has a programming background and
 has an avid knowledge of the technical aspects of the wireless communication related to cognitive radio. The
 manual is not comprehensive enough to encompass every aspect but few things to be added in near future
